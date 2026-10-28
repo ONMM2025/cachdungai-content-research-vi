@@ -1,6 +1,6 @@
 ---
 name: content-research-vi
-description: Nghiên cứu chủ đề nội dung thành brief tiếng Việt có nguồn, nhận định đã kiểm tra, điểm bất đồng và câu hỏi còn mở. Dùng trước khi viết hướng dẫn, bài so sánh, giải thích hoặc nội dung về công cụ AI có thể thay đổi.
+description: Kiểm chứng dữ kiện, tính năng và hướng dẫn có thể thay đổi để tạo brief có nguồn. Dùng trước khi viết nội dung cần thông tin cập nhật; không dành cho sáng tác hư cấu.
 ---
 
 # Nghiên cứu nội dung có kiểm chứng
@@ -38,8 +38,10 @@ Một câu hỏi trung tâm và các câu hỏi phụ.
 
 ### Sổ bằng chứng
 
-| Nhận định | Trạng thái | Bằng chứng và nguồn | Điều kiện/giới hạn | Ghi chú cho người viết |
+| Mã | Nhận định | Trạng thái | Bằng chứng và nguồn (liên kết, ngày kiểm tra) | Điều kiện/giới hạn | Ghi chú cho người viết |
 |---|---|---|---|---|
+
+Mỗi nhận định quan trọng trong brief nên trỏ tới mã nguồn tương ứng. Ghi tên nguồn, URL và ngày kiểm tra; nếu biết, thêm ngày xuất bản/cập nhật. Không có nguồn xác minh thì giữ trạng thái chưa xác minh.
 
 ### Brief cho người viết
 
